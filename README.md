@@ -1,6 +1,6 @@
 # ML-Ass_Q6 c and d
 
-## 6c
+## 6c.
 
 1) Using scaled batch gradient without regularisation
 Initial coefficients: 
@@ -44,7 +44,7 @@ Final coefficients are:
 [2723.6897250938937, 4233.213711870577, 17165.79483996975, 13584.30048250552]
 Mean absolute percentage error is : 19.666044244420977 % 
 
-##6d
+## 6d.
 
 Using Locally Weighted Linear Regression for Tau = 5e-05
 Mean absolute percentage error is : [5.40731848]%
